@@ -1,4 +1,4 @@
-# 👨‍💻 Igor Silveira
+# 👨‍💻 Igor de Souza da Silveira
 
 > "Construindo uma base sólida entre desenvolvimento de software e segurança da informação."
 
