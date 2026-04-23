@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @silveira-igor.
-- 👀 I’m interested in beginner projects, especially, in Python and Java.
-- 🌱 I’m currently learning Python, Java, C, HTML, CSS, MySQL, etc...
-- 💞️ I’m looking to collaborate on beginner projects, especially, in Python and Java.
-- 📫 How to reach me silveira.igor.souza@gmail.com
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Interested in movies and games.
+# 👨‍💻 Igor Silveira
+
+> "Construindo uma base sólida entre desenvolvimento de software e segurança da informação."
+
+Sou estudante de **Sistemas de Informação** no Unilasalle-RJ e estou ativamente em busca de uma oportunidade de estágio em TI, com interesse em Desenvolvimento, Governança e Gestão de TI. Gosto de entender o sistema como um todo: da lógica do banco de dados até a experiência final do usuário.
+
+### ⚙️ O que estou construindo & estudando
+- **Desenvolvimento Backend:** Criando APIs RESTful e web services utilizando **Java** e **Python**. Tenho focado em lógica de negócios, gerenciamento de sessões e na escrita/tradução de testes unitários utilizando frameworks como *pytest*.
+- **Segurança da Informação:** Aprofundando estudos em classificação de ameaças (malwares, ransomwares, worms), sistemas de controle de acesso e protocolos de segurança de redes (como configuração de ACLs em firewalls).
+- **Gestão de Projetos:** Aplicando frameworks do PMI/PMBOK e ferramentas de análise de risco (análise SWOT/FOFA, EAR) para entender o impacto da tecnologia sob a ótica de negócios.
+- **Stack Tecnológico:** Python, Java, C, HTML, CSS, MySQL, Git.
+
+### 🤝 Vamos colaborar?
+Tenho muito interesse em me juntar a **projetos open-source ou colaborativos**, especialmente aqueles voltados para desenvolvimento em **Python** e **Java**. Se você tem uma ideia bacana para uma API, precisa de ajuda com testes ou quer construir algo do zero, me chame!
+
+### ⚡ Curiosidades (Além do Código)
+- 🐕 Tenho um Shih Tzu que atua como meu principal assistente na hora de debugar código (*Rubber Duck Debugging*).
+- 🇩🇪 Sou estudante dedicado da língua alemã, atualmente focado em atingir a proficiência de nível B.
+- 🎬 Grande entusiasta de filmes e cultura pop.
+
+### 📫 Como me encontrar
+- **Email:** [silveira.igor.souza@gmail.com](mailto:silveira.igor.souza@gmail.com)
+- **Pronomes:** Ele/Dele
 
 <!---
 silveira-igor/silveira-igor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
