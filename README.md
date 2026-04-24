@@ -4,6 +4,8 @@
 
 Sou estudante de **Sistemas de Informação** no Unilasalle-RJ e estou ativamente em busca de uma oportunidade de estágio em TI, com interesse em Desenvolvimento, Governança e Gestão de TI. Gosto de entender o sistema como um todo: da lógica do banco de dados até a experiência final do usuário.
 
+Site Pessoal: https://silveira-igor-site-pessoal.vercel.app/
+
 ### ⚙️ O que estou construindo & estudando
 - **Desenvolvimento Backend:** Criando APIs RESTful e web services utilizando **Java** e **Python**. Tenho focado em lógica de negócios, gerenciamento de sessões e na escrita/tradução de testes unitários utilizando frameworks como *pytest*.
 - **Segurança da Informação:** Aprofundando estudos em classificação de ameaças (malwares, ransomwares, worms), sistemas de controle de acesso e protocolos de segurança de redes (como configuração de ACLs em firewalls).
